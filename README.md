@@ -5,8 +5,8 @@ The program generates two files: world.conf for Bluemap and markers.yml for Dynm
 # Visual Demonstration
 |  | Bluemap | Dynmap |
 | -- | ------- | ------ |
-| Global | ![Main screen](screenshots/bluemap.png) | ![Main screen](screenshots/dynmap.png) |
-| Zoomed in | | ![Main screen](screenshots/bluemap-zoom.png) | ![Main screen](screenshots/dynmap-zoom.png) |
+| Global | ![bluemap](screenshots/bluemap.png) | ![dynmap](screenshots/dynmap.png) |
+| Zoomed in | ![bluemap](screenshots/bluemap-zoom.png) | ![dynmap](screenshots/dynmap-zoom.png) |
 
 # Instructions
 Bluemap  
