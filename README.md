@@ -17,8 +17,8 @@ Bluemap
 
 dynmap  
 1. Run main.py
-2. Open markers.yml and copy it
+2. Copy markers.yml
 3. Replace `.\paper-server\plugins\dynmap\markers.yml` with copied file  
 
-You may need to replace some code to change the settings.  
+You may need to change some code to change the settings.  
 For example, change `world: Factions` to your own world in `build_dynmap_config`, or adjust the colors for the sea and borders.
